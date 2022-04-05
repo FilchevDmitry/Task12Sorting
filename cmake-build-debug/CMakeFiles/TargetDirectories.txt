@@ -1,0 +1,3 @@
+C:/Users/User/CLionProjects/Task12Sorting/cmake-build-debug/CMakeFiles/Task12Sorting.dir
+C:/Users/User/CLionProjects/Task12Sorting/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/User/CLionProjects/Task12Sorting/cmake-build-debug/CMakeFiles/rebuild_cache.dir
